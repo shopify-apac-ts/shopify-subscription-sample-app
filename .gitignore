@@ -8,3 +8,5 @@ package-lock.json
 /*.toml
 .shopify
 dist
+# Claude Code
+.claude/
